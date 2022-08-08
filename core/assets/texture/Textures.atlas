@@ -1,0 +1,180 @@
+
+Textures.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 1208, 226
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+clouds
+  rotate: false
+  xy: 2, 1368
+  size: 1421, 641
+  orig: 1421, 641
+  offset: 0, 0
+  index: -1
+entity
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 1
+entity
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 6
+entity
+  rotate: false
+  xy: 806, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 3
+gem
+  rotate: false
+  xy: 2, 886
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 10
+gem
+  rotate: false
+  xy: 1425, 1529
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 2
+gem
+  rotate: false
+  xy: 2, 404
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 7
+gem
+  rotate: false
+  xy: 484, 886
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 12
+gem
+  rotate: false
+  xy: 484, 404
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 4
+gem
+  rotate: false
+  xy: 966, 886
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 9
+gem
+  rotate: false
+  xy: 966, 404
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 1
+gem
+  rotate: false
+  xy: 1448, 1047
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 6
+gem
+  rotate: false
+  xy: 1448, 565
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 11
+gem
+  rotate: false
+  xy: 1448, 83
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 3
+table
+  rotate: false
+  xy: 1208, 48
+  size: 176, 176
+  orig: 176, 176
+  offset: 0, 0
+  index: -1
+
+Textures2.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+entity
+  rotate: false
+  xy: 966, 564
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 0
+entity
+  rotate: false
+  xy: 966, 162
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 5
+entity
+  rotate: false
+  xy: 1368, 564
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 2
+entity
+  rotate: false
+  xy: 1368, 162
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: 4
+gem
+  rotate: false
+  xy: 2, 484
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 8
+gem
+  rotate: false
+  xy: 2, 2
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 0
+gem
+  rotate: false
+  xy: 484, 484
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 13
+gem
+  rotate: false
+  xy: 484, 2
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: 5
