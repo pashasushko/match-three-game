@@ -14,4 +14,4 @@ Game screen
 
 Records screen
 
-<img src="screenshots/records-screen" alt="Main menu" width="700"/>
+<img src="screenshots/records-screen.png" alt="Main menu" width="700"/>
